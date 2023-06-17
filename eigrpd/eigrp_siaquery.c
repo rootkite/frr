@@ -1,13 +1,15 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * EIGRP Sending and Receiving EIGRP SIA-Query Packets.
- * Copyright (C) 2013-2014
+ * Copyright (C) 2013-2023
  * Authors:
+ *   Ali Ydl
  *   Donnie Savage
  *   Jan Janovic
  *   Matej Perina
  *   Peter Orsag
  *   Peter Paluch
+
  */
 
 #include <zebra.h>
